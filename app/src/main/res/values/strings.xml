@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Robolectric Basic</string>
+    <string name="item_not_found">Item not found</string>
+    <string name="access_denied">Access denied</string>
+    <string name="too_many_request">Too many request</string>
+    <string name="account_deleted">Account deleted</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
